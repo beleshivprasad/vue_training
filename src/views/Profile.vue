@@ -1,10 +1,10 @@
 <template>
-  <div><h1>Welcome to About Us</h1></div>
+  <div><h1>Welcome to Profile</h1></div>
 </template>
 
 <script>
 export default {
-  name: "About",
+  name: "Profile",
 };
 </script>
 
